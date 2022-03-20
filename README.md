@@ -52,6 +52,11 @@ If you are working with a Maven project you can simply add dependency for `webla
   <version>1.2.13</version>
 </dependency>
 ```
+Gradle
+```groovy
+implementation 'com.weblookandfeel:weblaf-ui:1.2.13'
+```
+
 You can also use `RELEASE` or `LATEST` version instead of specific one.
 
 **Including WebLaF in your project (binaries)**
